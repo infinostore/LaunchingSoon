@@ -1,5 +1,4 @@
 import { Navbar } from "./components/Navbar"
-import { Github } from "./icons/Github"
 
 
 export default function App() {

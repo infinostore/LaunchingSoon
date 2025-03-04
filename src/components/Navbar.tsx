@@ -1,4 +1,3 @@
-;
 import { Github } from "../icons/Github";
 import { Button } from "./ui/Buttons";
 // import { useNavigate } from "react-router-dom";
